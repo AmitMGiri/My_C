@@ -2,4 +2,4 @@ all:
 	gcc -o hello hello.c
 
 clean:
-	rm clean
+	rm hello
